@@ -26,7 +26,7 @@ public class Exercises {
         numbers.FizzBuzz();
 
         System.out.println("== Prime Factors Exercise ==");
-        numbers.generate(257600);
+        numbers.generate(30);
     }
 
 }
