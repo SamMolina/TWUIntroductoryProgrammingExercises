@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Created by smolina on 29/3/17.
  */
-public class Numbers {
+public class NumberExercises {
 
     public void FizzBuzz() {
         int numbers = 100;
